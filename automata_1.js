@@ -7,7 +7,7 @@ This code should take in a number from 0-256, and when it receives a bang, outpu
 */
 
 //int_to_binary takes an integer and converts it to binary- IT MUST BE RUN FIRST FOR PROGRAM TO WORK
-//everytime compute_new_row runs it outputs a new row of the automata
+//every time compute_new_row runs it outputs a new row of the automata
 //if you send a list to the js object, it becomes the new row
 
 autowatch = 1;
